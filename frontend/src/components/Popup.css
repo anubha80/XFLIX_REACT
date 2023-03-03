@@ -1,0 +1,41 @@
+.popup-title{
+    background-color: whitesmoke;
+    font-weight: 700 !important;
+}
+.popup-content{
+    background-color: whitesmoke;
+}
+.popup-textfield{
+    color: whitesmoke !important;
+    margin-left:10px !important;
+    margin-top:10px !important;
+    margin-right:3px !important;
+    width:380px !important;
+}
+.popup-btn-container{
+    display:flex !important;
+    justify-content: space-around !important;
+    margin-top: 1rem;
+
+}
+.popup-upload-btn , .popup-cancel-btn {
+    background-color: #D11D1D !important;
+    color: whitesmoke !important;
+    font-weight: 900 !important;
+    width: 7rem !important;
+    font-size: 15px !important;
+}
+.popup-cancel-btn{
+    background-color: #121212 !important;
+}
+.popup-inputbase{
+    border: 1px solid whitesmoke !important;
+    border-radius: 2px !important;
+    color: whitesmoke !important;
+    margin-left:10px !important;
+    margin-top:10px !important;
+    margin-right:3px !important;
+    width:380px !important;
+    border-radius: 5px !important;
+    padding-left: 15px;
+}

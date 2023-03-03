@@ -1,0 +1,42 @@
+.genre-conatiner{
+    width: 100%;
+    background-color: #303438;
+}
+.genre{
+    background-color: #303438;
+    height: 10rem;
+    margin: auto;
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+}
+.genre-panel{
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding-top: 1rem;
+    justify-content: space-between;
+}
+.second{
+    justify-content: space-around;
+}
+.genre-panel-btn{
+    color: whitesmoke !important;
+    border: none !important;
+    border-radius: 2rem !important;
+    font-size: 1rem;
+    padding: 10px 30px 10px 30px !important;
+    background-color: #2a2d30 !important;
+}
+.genre-panel-btn:hover{
+    color: black !important;
+    background-color: whitesmoke !important;
+    cursor: pointer;
+}
+.genre-panel-btn-filled{
+    color: black !important;
+    background-color: whitesmoke !important;
+    border: none !important;
+    border-radius: 2rem !important;
+    padding: 10px 30px 10px 30px !important;
+    font-size: 1rem;
+}

@@ -1,0 +1,39 @@
+.header-container{
+    width: 100%;
+    background-color: #303438;
+}
+.header{
+    background-color: #303438;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 15px 0px 15px;
+    padding: 5px 15px 10px 15px;
+}
+.header-logo{
+    height: 40px;
+}
+
+.header-searchbox{
+        width: 500px;
+        background-color : #121212;
+        height: 40px;
+        border: 2px solid #444D56 !important;
+        border-radius: 10px 0px 0px 10px;
+        border-right: 0px !important;
+}
+.header-search-btn{
+    width: 40px !important;
+    height: 40px !important;
+    padding-left: 2px;
+    padding-right: 2px;
+    color: whitesmoke;
+    border: 2px solid #444D56;
+    border-radius: 0px 10px 10px 0px;
+}
+.header-upload-btn{
+    background-color: #D11D1D !important;
+    height: 30px;
+    color: whitesmoke;
+    font-weight: 800 !important;
+}

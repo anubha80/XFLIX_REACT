@@ -1,0 +1,45 @@
+.video-page-container{
+    background-color: #121212;
+    width: 100%;
+    height: 100vh;
+}
+.video-page{
+    width: 80%;
+    margin: auto;
+    color: whitesmoke;
+}
+.video-frame iframe{
+    height: 28em;
+    width: 72em;
+    border: none;
+    border-radius: 1em;
+    margin-top: 1em;
+}
+.video-title{
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+
+.video-content-rating{
+    color: rgb(182, 180, 180);
+}
+#dot{
+    background: rgb(182, 180, 180);
+    height: 1px;
+    padding: 3px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.video-release-date{
+    color: rgb(182, 180, 180);
+    margin-left: 2px;
+}
+.video-page-like-dislike-btn{
+    background-color: #303438 !important;
+    border-radius: 2rem !important;
+    margin-left: 1rem !important;
+    color: whitesmoke !important;
+    height: 3rem !important;
+    width: 5rem !important;
+}
